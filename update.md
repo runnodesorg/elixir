@@ -1,5 +1,5 @@
 # elixir update
-### UPDATE 17/02/2024###
+#UPDATE 17/02/2024#
 
 GM Node Operators! There is a new version of the validator software for you to run for Testnet-2. 
 
