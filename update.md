@@ -22,5 +22,5 @@ sudo docker run -it --restart unless-stopped -d --name ev elixir-validator
 sudo docker logs -f ev
 
 ###End update###
-######################
+
 
